@@ -10,6 +10,7 @@ export(
        colorpanel,
        greenred,
        heatmap.2,
+       heatmap.lala,
        hist2d,
        lmplot2,
        lowess,
